@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.demo.sensors"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name">
+        <activity
+            android:name=".SensorsActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ListSensorsActivity">
+        </activity>
+        <activity android:name=".DemoAccelerometer">
+        </activity>
+        <activity android:name=".LightSensorActivity">
+        </activity>
+        <activity android:name=".MagneticSensorActivity">
+        </activity>
+        <activity android:name=".GyroscopeActivity">
+        </activity>
+        <activity android:name=".PressureActivity">
+        </activity>
+        <activity android:name=".ProximitySensorActivity">
+        </activity>
+        <activity android:name=".TemperatureSensorActivity">
+        </activity>
+        <activity android:name=".OrientationSensorActivity">
+        </activity>
+    </application>
+
+</manifest>

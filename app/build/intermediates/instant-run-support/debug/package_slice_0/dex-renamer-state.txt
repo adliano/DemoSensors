@@ -1,0 +1,4 @@
+#Mon Apr 17 23:21:06 PDT 2017
+base.0=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0
+renamed.0=classes.dex
+file.0=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex

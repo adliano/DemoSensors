@@ -1,0 +1,19 @@
+#Mon Apr 17 23:21:05 PDT 2017
+renamed.5=classes6.dex
+renamed.4=classes4.dex
+renamed.3=classes3.dex
+renamed.2=classes2.dex
+renamed.1=classes.dex
+renamed.0=classes5.dex
+base.5=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0a4756cca7520c77ff34448d7911a674f3877522
+base.4=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb5c89b286719ed00a13fc44ba3b4fe4f16f10ac
+base.3=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b7265191d4d3325c447596e340e71187901d360
+base.2=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4395449ed9ad8e56bcdd7fc08235034d335076c2
+base.1=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2dcf077ee13e2f5df9149880e10c3148a587ced1
+base.0=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_8498608a858b606b88e400f410f77fbafe104fa1
+file.5=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0a4756cca7520c77ff34448d7911a674f3877522/classes.dex
+file.4=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb5c89b286719ed00a13fc44ba3b4fe4f16f10ac/classes.dex
+file.3=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b7265191d4d3325c447596e340e71187901d360/classes.dex
+file.2=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4395449ed9ad8e56bcdd7fc08235034d335076c2/classes.dex
+file.1=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2dcf077ee13e2f5df9149880e10c3148a587ced1/classes.dex
+file.0=/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_8498608a858b606b88e400f410f77fbafe104fa1/classes.dex

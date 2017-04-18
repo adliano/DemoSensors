@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/drawable-ldpi/finger_point.png",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/drawable-ldpi/finger_point.png"
+    }
+]

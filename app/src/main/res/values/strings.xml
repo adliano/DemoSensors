@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SensorsActivity</string>
+    <string name="str_list_sensors_activity">List of Sensors</string>
+    <string name="str_accelerometer_activity">Accelerometer</string>
+    <string name="str_light_activity">Light</string>
+    <string name="str_magnetic_activity">Magnetic</string>
+    <string name="str_gyroscope_activity">Gyroscope</string>
+    <string name="str_pressure_activity">Pressure</string>
+    <string name="str_proximity_activity">Proximity</string>
+    <string name="str_temperature_activity">Temperature</string>
+    <string name="str_orientation_temp">Orientation</string>
+</resources>

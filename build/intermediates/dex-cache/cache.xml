@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/adliano/.android/build-cache/8e233ac4965f87eaf790a456559f13cd3bdf339d/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_8498608a858b606b88e400f410f77fbafe104fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/pre-dexed/debug/classes_4395449ed9ad8e56bcdd7fc08235034d335076c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adliano/.android/build-cache/fda771dcac79488cdcec426776ff8b26e522d855/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/pre-dexed/debug/classes_2dcf077ee13e2f5df9149880e10c3148a587ced1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adliano/.android/build-cache/8e233ac4965f87eaf790a456559f13cd3bdf339d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/pre-dexed/debug/classes_5b7265191d4d3325c447596e340e71187901d360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adliano/.android/build-cache/915c904462d36bc3513619c398bdcdfa4a9171e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/pre-dexed/debug/classes_bb5c89b286719ed00a13fc44ba3b4fe4f16f10ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/adliano/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_0a4756cca7520c77ff34448d7911a674f3877522.jar" />
+    </item>
+
+</items>

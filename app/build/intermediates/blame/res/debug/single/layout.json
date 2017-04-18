@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_magnetic_sensor.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_magnetic_sensor.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_demo_accelerometer.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_demo_accelerometer.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_orientation_sensor.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_orientation_sensor.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_list_sensors.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_list_sensors.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_magnetic_sensor.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_magnetic_sensor.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_proximity_sensor.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_proximity_sensor.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/layout_sensor_activity.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/layout_sensor_activity.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_gyroscope.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_gyroscope.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_light_sensor.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_light_sensor.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_list_sensors.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_list_sensors.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_teperature_sensor.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_teperature_sensor.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_demo_accelerometer.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_demo_accelerometer.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/layout_sensor_activity.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/layout_sensor_activity.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_teperature_sensor.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_teperature_sensor.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_pressure.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_pressure.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_proximity_sensor.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_proximity_sensor.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_gyroscope.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_gyroscope.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_orientation_sensor.xml",
+        "source": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_orientation_sensor.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_light_sensor.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_light_sensor.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/adliano/.android/build-cache/3e982f653e1d64356f5b624aa531e2317b9ddf2d/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/adliano/AndroidStudioProjects/DemoSensors/app/build/intermediates/res/merged/debug/layout/activity_pressure.xml",
+        "source": "/home/adliano/AndroidStudioProjects/DemoSensors/app/src/main/res/layout/activity_pressure.xml"
+    }
+]
